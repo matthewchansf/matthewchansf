@@ -40,3 +40,4 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Projects
 - Wazuh SIEM Lab
+- Safeline WAF
